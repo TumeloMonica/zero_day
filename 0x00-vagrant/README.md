@@ -1,1 +1,1 @@
-Hello Ubuntu task
+This is the vagrant directory
